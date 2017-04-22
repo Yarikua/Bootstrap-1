@@ -1,0 +1,12 @@
+div{
+    color: white;
+}
+
+body>div.container{
+    background-color: green;
+    height: 500px;
+}
+
+body>div.conteiner-fluid{
+    background-color: blue;
+}
