@@ -1,3 +1,7 @@
+body{
+    margin-top: 50px;
+}
+
 div{
     color: white;
 }
@@ -9,5 +13,5 @@ body>div.container{
 
 body>div.conteiner-fluid{
     background-color: blue;
+    
 }
-
